@@ -8,4 +8,4 @@ methods include a lexicon-based approach, a machine learning (ML) based approach
 ## Lexicon-based analysis
 
 This type of analysis, such as the NLTK Vader sentiment analyzer, involves using a set of predefined rules and heuristics to determine the sentiment of a piece of text. These rules
-are typically based on lexical and syntactic features of the text, such as the presence of positive or negative words and phrases.[]
+are typically based on lexical and syntactic features of the text, such as the presence of positive or negative words and phrases. [Link Text](https://github.com/vishnun0027/Sentiment-Analysis/blob/master/NLTK%20Sentiment%20Analysis.ipynb)
